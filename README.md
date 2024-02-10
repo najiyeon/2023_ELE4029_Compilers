@@ -1,7 +1,7 @@
 # 2023_ELE4029_Compilers
 Hanyang University, Compilers, Fall 2023
 
-<br>
+
 
 ### Project 01 : Scanner
 [Project 01 code](https://github.com/najiyeon/2023_ELE4029_Compilers/tree/main/1_Scanner)
@@ -16,6 +16,6 @@ Hanyang University, Compilers, Fall 2023
 [Project 02 wiki](https://github.com/najiyeon/2023_ELE4029_Compilers/wiki/Compilers-Project-%232-Report)
 
 ### Project 03 : Semantic
-[Project 02 code](https://github.com/najiyeon/2023_ELE4029_Compilers/tree/main/3_Semantic)
+[Project 03 code](https://github.com/najiyeon/2023_ELE4029_Compilers/tree/main/3_Semantic)
 <br>
-[Project 02 wiki]()
+[Project 03 wiki]()
